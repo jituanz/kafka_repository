@@ -2,7 +2,7 @@ package com.ashok.model;
 
 /**
  * This class serving as model to hold data
- * @author Ashok
+ * @author Jitendra
  *
  */
 public class Customer {
